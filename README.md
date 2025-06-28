@@ -70,16 +70,16 @@ The Power BI dashboard includes:
 
 ## Recommendations
 * Convert Month-to-Month Contracts to Long-Term Plans
-Customers on flexible plans are more likely to churn. Offering incentives (e.g., discounts) for switching to annual contracts can increase retention.
+   1. Customers on flexible plans are more likely to churn. Offering incentives (e.g., discounts) for switching to annual contracts can increase retention.
 * Bundle Streaming and Value Services
-Customers who subscribe to streaming and device protection plans show lower churn. Create bundled packages that offer more perceived value.
+   1. Customers who subscribe to streaming and device protection plans show lower churn. Create bundled packages that offer more perceived value.
 * Target At-Risk Segments
   1.  Customers with short tenure, no referrals, or no premium support are high-risk.
    2. Use churn scores to flag and engage these users early.
 * Price Optimization
-Many customers leave due to “high pricing” or “found better deal.” Use competitor benchmarking and personalized offers to retain price-sensitive users.
+  1. Many customers leave due to “high pricing” or “found better deal.” Use competitor benchmarking and personalized offers to retain price-sensitive users.
 * Improve Support and Communication
-Churn reasons like “poor customer service” and “lack of support” suggest service quality issues. Strengthen training and response times in customer support teams.
+  1. Churn reasons like “poor customer service” and “lack of support” suggest service quality issues. Strengthen training and response times in customer support teams.
 ## 🛠 Tools & Tech Stack
 
 - **Power BI Desktop**  
